@@ -1,0 +1,23 @@
+# Ignorer les répertoires système et inaccessibles
+Application Data/
+Cookies/
+Local Settings/
+Menu Démarrer/
+Mes documents/
+Modèles/
+Recent/
+SendTo/
+Voisinage d'impression/
+Voisinage réseau/
+
+# Ignorer les répertoires spécifiques non pertinents
+OneDrive*/
+MATLAB/
+.spyder-py3/
+.ipython/
+node_modules/
+
+# Ignorer les fichiers spécifiques
+*.docx
+*.log
+*.ini
